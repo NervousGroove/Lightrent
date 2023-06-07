@@ -42,3 +42,7 @@ and so you can get the password in the "decryptedPassword" variable, and the nam
   
 ### Saving the data
 So far (in the documentation), you have only been taught how to handle and get the data in one session. That is, for example, let's say you want to create a social network, or any other kind of application that has user interaction, you will have to store user information, to display their names, messages, and other interactions. So, for that, you can use the "**igrSave()**" function. This function will create a file on the server with the name defined by the username of the current session (if treated) and the content will be the password. The content will be encrypted. With this you can get this data at any time on the server, making everything possible, like a database, only more secure. But before using the "**igrSave()**" function you need to define your FTP in the "igtFTPpost" variable.
+
+---> ALL RIGHTS RESERVED, SWANKYNOOB INC. | ESTABLISHED AND MANAGED BY Wesley YAN Soares Brehmer
+
+[This repository/project/program and all others from SwankyNoob apply to the developer's terms.](https://github.com/NervousGroove/SwankyNoob/blob/main/TERMS)
