@@ -15,7 +15,7 @@ Lightrent is the most secure way to protect your users, ensuring the privacy and
 ## 🔌 How to add Lightrent to your project
 Lightrent can be added using a script (CDN) easily. Add this script in the **"<head>"** section of your HTML:
 ```html
-  <script src="https://cdn.jsdelivr.net/gh/NervousGroove/Lightrent@main/Source/Lightrent.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/NervousGroove/Lightrent@main/Source/Lightrent.js"></script>
 ```
 
 ## ⚙️ Status and Version
