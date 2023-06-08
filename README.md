@@ -24,7 +24,7 @@ Lightrent is currently under active development and is in the beta version. We a
 
 ## 🏷 License
 
-Lightrent is under restrictive license CC-NC-ND 4.0. Before using Lightrent, please read the license.
+The source code of Lightrent is under restrictive license CC-NC-ND 4.0. Before using Lightrent, please read the license. Remember that the license is only applicable to the source code, however feel free to use Lightrent in your projects.
 
 ## 📋 Documentation
 
