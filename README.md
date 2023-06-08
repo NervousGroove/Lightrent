@@ -24,7 +24,7 @@ Lightrent is currently under active development and is in the beta version. We a
 
 ## 🏷 License
 
-Lightrent is protected by copyright, and all rights are reserved by the SwankyNoob team. Usage and distribution of Lightrent are subject to specific terms and conditions defined by SwankyNoob. Please contact us for more information.
+Lightrent is under restrictive license CC-NC-ND 4.0. Before using Lightrent, please read the license.
 
 ## 📋 Documentation
 
